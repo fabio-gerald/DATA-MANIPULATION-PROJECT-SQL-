@@ -1,12 +1,12 @@
 # DATA-MANIPULATION-PROJECT-SQL-
-Sure, I’d be happy to help with a preview of your DML (Data Manipulation Language) project involving the customer and product tables. Here’s a concise overview:
+Sure, I’d be happy to help with a preview of your DML (Data Manipulation Language) project involving the customer, order and product tables. Here’s a concise overview:
 
 ---
 
-Project Preview: Data Manipulation for Customer and Product Tables
+Project Preview: Data Manipulation for Customer,order and Product Tables
 
 Overview
-This project focuses on the effective management and manipulation of data within a relational database, specifically through the use of Data Manipulation Language (DML). The core of this project involves two pivotal tables: the Customer Table and the Product Table. These tables are integral for managing customer information and product details, essential for operational efficiency and decision-making.
+This project focuses on the effective management and manipulation of data within a relational database, specifically through the use of Data Manipulation Language (DML). The core of this project involves two pivotal tables: the Customer Table ,Order tablesand the Product Table. These tables are integral for managing customer information and product details, essential for operational efficiency and decision-making.
 
 
 
